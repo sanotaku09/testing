@@ -1,0 +1,3 @@
+#!/bin/env zsh
+
+echo "$0"
