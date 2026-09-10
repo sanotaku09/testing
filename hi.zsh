@@ -1,3 +1,3 @@
 #!/bin/env zsh
 
-echo "$0"
+echo "$address"
